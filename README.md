@@ -1,3 +1,8 @@
+# 
+- Here is the app hosted: https://example-hacker-news.web.app/
+Things TODO
+-- Make sure that only the last api triggers an update. This can be a problem when you call multiple search terms quickly together.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
