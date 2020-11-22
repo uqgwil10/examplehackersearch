@@ -1,0 +1,52 @@
+html,body{
+
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  margin:0;
+}
+
+.container{
+  margin:20px auto 0 auto;
+  max-width: 1200px;
+}
+a{text-decoration: none;
+color:black;}
+
+.banner{
+  background-color:black;
+  padding:10px;
+}
+
+h1{
+  color: orange;
+}
+
+.container-title{
+  margin:0 auto 0 auto;
+  max-width: 1200px;
+}
+
+.MuiInputLabel-outlined{
+  color:orange !important;
+}
+
+.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline{
+border-color:orange !important;
+
+}
+/*
+.MuiButtonBase-root.MuiCardActionArea-root{
+  border: 1px solid orange;
+
+}
+*/
+
+ h2{
+   color:black
+ }
+
+ .paginationSection{
+   width:300px;
+   margin:auto;
+ }
